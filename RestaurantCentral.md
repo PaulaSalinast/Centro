@@ -1,6 +1,6 @@
 
 ## CentroRestaurant
-##Introduccion 
+## Introduccion 
 
 Propósito:
 La aplicación AppCentral tiene como objetivo principal digitalizar y optimizar la experiencia de gestión para el restaurante Central. Este sistema, desarrollado en Django, busca ofrecer funcionalidades clave como administración de pedidos, gestión de inventarios, reservas de mesas y reportes de ventas, mejorando tanto la experiencia de los usuarios como la eficiencia operativa del restaurante.
