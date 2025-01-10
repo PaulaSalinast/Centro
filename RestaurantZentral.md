@@ -2,7 +2,8 @@
 # ZentroRestaurant
 ## Introduccion 
 
-## Propósito:
+**Propósito:**
+
 La aplicación AppZentral tiene como objetivo principal digitalizar y optimizar la experiencia de gestión para el restaurante Zentral. Este sistema, desarrollado en Django, busca ofrecer funcionalidades clave como administración de pedidos, gestión de inventarios, reservas de mesas y reportes de ventas, mejorando tanto la experiencia de los usuarios como la eficiencia operativa del restaurante.
 
 ## Objetivos:
@@ -52,19 +53,20 @@ Visualización de métricas clave como ventas por plato o por horario.
 ## Requerimientos no funcionales:
 
 1.Escalabilidad: La app debe soportar al menos 500 usuarios simultáneamente.
+
 2.Seguridad: Implementación de autenticación segura para empleados y clientes.
+
 3.Compatibilidad: La aplicación debe ser accesible desde navegadores modernos y dispositivos móviles.
 ## Requerimientos técnicos:
 
 1.Framework: Django (Python 3.9 o superior).
+
 2.Base de datos: PostgreSQL para el almacenamiento de datos estructurados.
+
 3.Frontend: HTML5, CSS3 y JavaScript con Bootstrap para un diseño responsivo.
+
 4.Implementación: Despliegue en un servidor web compatible, como Nginx o Apache.
 
 ## Modelo
 ![MODELO DJANGO](https://github.com/user-attachments/assets/9fb6ee32-9df8-4a38-b218-87d8edfc0b6e)
-
-## Desarrollo de proyecto
-
-
 
